@@ -3,7 +3,7 @@
 ## Olá! Eu sou o Miguel Teixeira!✌🏿😜
 ### Estou no ultimo ano do ensino médio, e estou cursando programação presencial e online📒🖥️
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)<br/>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJqTflxmgNcphBDTWZJBGPnkKqLkWtmqdQcRGRCjRZtnJNVqPWPSXrdmVFjDKnqFTLfCJfg))<br/>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-franco-708988295/)<br/>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.teixeiraa07/)
 
