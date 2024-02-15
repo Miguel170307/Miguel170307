@@ -1,6 +1,6 @@
 
 
-## Olá! Eu sou o Miguel Teixeira!✌🏿😜
+## Olá! Eu sou o Miguel Teixeira!✌🏿
 ### Estou no ultimo ano do ensino médio, e estou cursando programação presencial e online📒🖥️
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCKCGlsnDwhdQqbgqgSHWVgghvbdqLjrCmnCZSQhHMgHTGMGLrnQkFfrrNqbXWZwhJRMFRkLbr) <br/>
