@@ -1,4 +1,6 @@
-
+<img width=100% bottom=50px src="https://github.com/Miguel170307/Miguel170307/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b"/>
+<br>
+<br> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=D82B2B&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Miguel;I'm+17+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 ### Estou no ultimo ano do ensino médio, e estou cursando programação presencial e online📒🖥️
