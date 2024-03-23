@@ -1,9 +1,9 @@
 
 
-## Olá! Eu sou o Miguel Teixeira!✌🏿
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=D82B2B&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Miguel;I'm+17+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 ### Estou no ultimo ano do ensino médio, e estou cursando programação presencial e online📒🖥️
 
-<a href="mailto:cmp.1a.pikuriku17@gmail.com"> <img align="center"  height="80" width="80" src="https://github.com/Miguel170307/Miguel170307/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0"> </a>
+<a href="mailto:pikuriku17@gmail.com"> <img align="center"  height="80" width="80" src="https://github.com/Miguel170307/Miguel170307/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0"> </a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-franco-708988295/)<br/>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.teixeiraa07/)
 
