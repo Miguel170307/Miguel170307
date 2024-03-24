@@ -6,7 +6,7 @@
 <img align="center" height="49" width="49" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
 </a>
 
-<a href="mailto:migueltfranco@hotmail.com">
+<a href="mailto:cpm.1a.migueltfranco@hotmail.com">
 <img align="center"  height="45" width="45" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
 </a>
 
