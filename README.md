@@ -16,7 +16,7 @@
 
 </div>
 
-## Linguagens que estou cursando🧑🏽‍💻
+## Linguagens que estou estudando🧑🏽‍💻
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel170307&show_icons=true&theme=dracula) 
 
