@@ -17,7 +17,6 @@
 </div>
 
 ## Linguagens que estou estudando🧑🏽‍💻
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel170307&show_icons=true&theme=dracula) 
 
 <div style="display: inline_block"> <br/>
 <img align="center" alt="react" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
