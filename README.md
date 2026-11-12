@@ -52,4 +52,3 @@
 
 🎯 Meu objetivo é evoluir constantemente como desenvolvedor, compartilhar conhecimentos e construir soluções que façam a diferença.
 
-⚡ **Always learning, always building.**
