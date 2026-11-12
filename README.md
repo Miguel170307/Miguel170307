@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=40&duration=4000&pause=1000&color=D82B2B&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Miguel;I'm+19+years+old;;Studying+Cross-Platform+Software+Development+;I'm+from+Brazil;Welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=1100&color=D82B2B&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Miguel!;Welcome+to+my+GitHub.)](https://git.io/typing-svg)
 
 
 <div align="center"> 
@@ -40,3 +40,17 @@
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </div>
+
+### 👨‍💻 About Me
+
+Hey there! I'm Miguel 👋
+
+🎓 Técnico em Desenvolvimento de Sistemas pela **Etec Anna de Oliveira Ferraz** e estudante de **Desenvolvimento de Software Multiplataforma na Fatec Matão**.
+
+💻 Apaixonado por tecnologia, programação e por transformar ideias em projetos reais.
+
+🚀 Atualmente, estou aprimorando minhas habilidades em **Full Stack Development**, explorando novas tecnologias e desenvolvendo projetos pessoais e acadêmicos.
+
+🎯 Meu objetivo é evoluir constantemente como desenvolvedor, compartilhar conhecimentos e construir soluções que façam a diferença.
+
+⚡ **Always learning, always building.**
