@@ -43,7 +43,6 @@
 
 ### 👨‍💻 About Me
 
-Hey there! I'm Miguel 👋
 
 🎓 Técnico em Desenvolvimento de Sistemas pela **Etec Anna de Oliveira Ferraz** e estudante de **Desenvolvimento de Software Multiplataforma na Fatec Matão**.
 
